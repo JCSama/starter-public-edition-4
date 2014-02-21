@@ -1,4 +1,4 @@
-A PHP Application Starter, Based on CodeIgniter 3
+A Distro Based on CodeIgniter 3 and PHP Application Starter-4
 ==========================================================
 
 
@@ -6,7 +6,7 @@ Features
 --------
 
 * CodeIgniter 3.0-dev, http://codeigniter.com/, https://github.com/EllisLab/CodeIgniter
-* On a web-server you can place your site (www folder) within a subdirectory.
+* Idiorm
 * Codeigniter Cross Modular Extensions - XHMVC,
 https://bitbucket.org/xperez/codeigniter-cross-modular-extensions-xhmvc,
 http://www.4amics.com/x.perez/2013/06/xhmvc-common-modular-extensions/ (only the essential piece of code).
