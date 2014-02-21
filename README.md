@@ -2,10 +2,9 @@ A Distro Based on CodeIgniter 3 and PHP Application Starter-4
 ==========================================================
 
 
-Features
+Features in addition to CodeIgniter 3.0-dev
 --------
 
-* CodeIgniter 3.0-dev, http://codeigniter.com/, https://github.com/EllisLab/CodeIgniter
 * Idiorm ORM see: <a href="http://idiorm.readthedocs.org/en/latest/">Documentation for Idiorm Object Relational Mapper</a>
 * Codeigniter Cross Modular Extensions - XHMVC,
 https://bitbucket.org/xperez/codeigniter-cross-modular-extensions-xhmvc,
